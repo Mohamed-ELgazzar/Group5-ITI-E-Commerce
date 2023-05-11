@@ -61,6 +61,4 @@ We welcome contributions to enhance the Flamingo E-Commerce application. If you'
 
 Please ensure that your contributions align with the coding standards, best practices, and any guidelines specified in the repository.
 
-## License
 
-The Flamingo E-Commerce application is released under the MIT License.
